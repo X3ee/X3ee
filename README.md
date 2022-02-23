@@ -1,2 +1,2 @@
 MAKEING C# LOADER FOR PASTE CLICKERS 😎😎
-�![Screenshot_1](https://user-images.githubusercontent.com/70253785/155404692-40f291b5-80a0-4bc7-9baa-3cc6d89dc06c.png)
+![image](https://user-images.githubusercontent.com/70253785/155404754-e360d0be-1bab-46a6-bdce-ae2ddea00470.png)
