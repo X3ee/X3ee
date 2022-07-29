@@ -9,5 +9,6 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/https://github.com/X3ee=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/X3eee=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
